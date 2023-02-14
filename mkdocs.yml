@@ -1,0 +1,9 @@
+site_name: Documentation project
+
+nav:
+  - Home: "index.md"
+  - "User guide":
+      - Auth: "auth.md"
+  - About us: "about.md"
+
+theme: readthedocs
