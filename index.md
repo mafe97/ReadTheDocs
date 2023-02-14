@@ -1,4 +1,4 @@
-# Documentation Project
+# Documentation Project Software
 
 Documentation of proof, created course inside of DJango, use the library MKDOCS for publish in **ReadTheDocs**
 
